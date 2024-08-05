@@ -2,7 +2,7 @@ package bibonne.experiment.sealedenum.example;
 
 import java.util.List;
 
-public record CsvFileParser() implements FileParser {
+public class CsvFileParser extends TableFileParser{
     @Override
     public List<String> parse(String filename) {
         return List.of();

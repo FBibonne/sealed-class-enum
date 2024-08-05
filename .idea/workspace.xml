@@ -5,16 +5,48 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e2f53378-7aa9-4dc5-8b70-00edd0fc9432" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/annotation-processor/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bibonne/experiment/sealedenum/example/CsvFileParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/example/src/main/java/bibonne/experiment/sealedenum/example/TableFileParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bibonne/experiment/sealedenum/example/FileParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/example/src/main/java/bibonne/experiment/sealedenum/example/FileParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bibonne/experiment/sealedenum/example/JsonFileParser.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="Record" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;FBibonne&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/FBibonne/sealed-class-enum.git&quot;,
+    &quot;accountId&quot;: &quot;f0334c54-97a1-42cc-924e-9e06c641faf7&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2k4IE5QCK3MfGw0BLSdJrEWAOLw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -23,12 +55,38 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Maven.annotation-processor [clean].executor": "Run",
+    "Maven.annotation-processor [install].executor": "Run",
+    "Maven.sealed-class-enum [clean].executor": "Run",
+    "Maven.sealed-class-enum [compile].executor": "Run",
+    "Maven.sealed-class-enum [install].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/fabrice/DEPOTS/sealed-class-enum/annotation-processor/src/main/java/bibonne/experiment/sealedenum/base/SealedEnumProcessor.java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.annotationProcessors",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="bibonne.experiment.sealedenum.base" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/example/src/main/resources/META-INF" />
+      <recent name="$PROJECT_DIR$/example/src/main/resources" />
+      <recent name="$PROJECT_DIR$/annotation-processor/src/main/java" />
+      <recent name="$PROJECT_DIR$/example/src/main/java" />
+    </key>
+    <key name="MoveInnerDialog.RECENTS_KEY">
+      <recent name="bibonne.experiment.sealedenum.example" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -45,7 +103,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1722536308890</updated>
-      <workItem from="1722536310075" duration="6000" />
+      <workItem from="1722536310075" duration="3274000" />
+      <workItem from="1722703482325" duration="103000" />
+      <workItem from="1722703628733" duration="5515000" />
+      <workItem from="1722834961439" duration="13178000" />
     </task>
     <servers />
   </component>
